@@ -2,7 +2,8 @@
 
 **Smart Safety Awareness Network** — a realtime community safety web app for Bangladesh.
 
-SSAN Bangladesh helps users monitor incidents, report fire/hazards, view alerts on a live map, access emergency services, and trigger SOS requests. The platform supports both **English** and **বাংলা** for better accessibility.
+SSAN Bangladesh helps users monitor incidents, report fire/hazards, view alerts on a live map, access emergency services, and trigger SOS requests.
+
 
 ## Features
 
