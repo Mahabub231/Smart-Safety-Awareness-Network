@@ -24,8 +24,6 @@ SSAN Bangladesh helps users monitor incidents, report fire/hazards, view alerts 
     - description
     - optional photo
     - current GPS location or typed location
-  - Edit and delete incidents
-  - Reverse geocoding for readable location names
 
 - **AI Safety Assistant**
   - Supports **English + বাংলা**
