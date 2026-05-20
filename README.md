@@ -70,3 +70,33 @@ SSAN Bangladesh helps users monitor incidents, report fire/hazards, view alerts 
 ├── app.js
 ├── firebase.js
 └── supabase.js
+
+```
+---
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](Result_Screenshots/Home_page.png)
+
+### 🚨 Alerts System
+![Alerts](Result_Screenshots/Alerts.png)
+
+### 💬 Chats
+![Chats](Result_Screenshots/Chats.png)
+
+### 🆘 SOS Feature
+![SOS](Result_Screenshots/SOS.png)
+
+### 📊 User Statistics
+![Stats](Result_Screenshots/Stats_user.png)
+
+### 🛠️ Admin Dashboard
+![Admin](Result_Screenshots/Admin_Home.png)
+
+### ⚙️ Admin Control
+![Admin Control](Result_Screenshots/Admin_control.png)
+
+### 📑 Report Submissions
+![Reports](Result_Screenshots/Report_submits.png)
+
+---
