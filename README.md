@@ -2,6 +2,9 @@
 
 **Smart Safety Awareness Network** — a realtime community safety web app for Bangladesh.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Netlify](https://img.shields.io/badge/Hosted_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 SSAN Bangladesh helps users monitor incidents, report fire/hazards, view alerts on a live map, access emergency services, and trigger SOS requests.
 
 
@@ -76,6 +79,11 @@ SSAN Bangladesh helps users monitor incidents, report fire/hazards, view alerts 
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=netlify&logoColor=white)](https://smart-safety-awareness-network.netlify.app/)
 ---
+
+## ▶️ Run Locally
+
+git clone https://github.com/mahabubhasanmahin/Smart-Safety-Awareness-Network.git
+cd Smart-Safety-Awareness-Network
 ## 📸 Screenshots
 
 ### 🏠 Home Page
