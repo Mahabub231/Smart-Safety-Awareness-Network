@@ -72,6 +72,9 @@ SSAN Bangladesh helps users monitor incidents, report fire/hazards, view alerts 
 └── supabase.js
 
 ```
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=netlify&logoColor=white)](https://smart-safety-awareness-network.netlify.app/)
 ---
 ## 📸 Screenshots
 
